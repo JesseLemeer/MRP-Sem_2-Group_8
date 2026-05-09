@@ -1,3 +1,4 @@
-1. Trasapality matrix 
-2. implement CKA and SAT
-3.presentation 
+Run AutoAttack once.
+Save the generated adversarial images.
+Next time, load them from file.
+Do not run AutoAttack again unless you change the model, data batch, or epsilon.
