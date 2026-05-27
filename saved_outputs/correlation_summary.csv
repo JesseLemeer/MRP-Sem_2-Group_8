@@ -1,0 +1,5 @@
+x_metric,y_metric,n_pairs,pearson,spearman
+mean_cka,transfer_asr,12,0.4881825853725952,0.35399616270239437
+max_cka,transfer_asr,12,0.5517483438921463,0.48851470452930423
+sat,transfer_asr,16,1.0,1.0
+gaas,transfer_asr,12,0.8402134773017794,0.7292320951669323

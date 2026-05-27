@@ -1,0 +1,17 @@
+source_model,target_model,sat
+Standard,Standard,1.0
+Standard,Engstrom2019Robustness,0.1016949152542373
+Standard,Wong2020Fast,0.13559322033898305
+Standard,Rice2020Overfitting,0.11864406779661017
+Engstrom2019Robustness,Standard,0.34615384615384615
+Engstrom2019Robustness,Engstrom2019Robustness,1.0
+Engstrom2019Robustness,Wong2020Fast,0.7692307692307693
+Engstrom2019Robustness,Rice2020Overfitting,0.5
+Wong2020Fast,Standard,0.35714285714285715
+Wong2020Fast,Engstrom2019Robustness,0.5
+Wong2020Fast,Wong2020Fast,1.0
+Wong2020Fast,Rice2020Overfitting,0.42857142857142855
+Rice2020Overfitting,Standard,0.2631578947368421
+Rice2020Overfitting,Engstrom2019Robustness,0.5789473684210527
+Rice2020Overfitting,Wong2020Fast,0.6842105263157895
+Rice2020Overfitting,Rice2020Overfitting,1.0
