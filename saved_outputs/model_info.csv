@@ -1,5 +1,5 @@
-model,architecture,training_type
-Standard,ResNet,standard
-Engstrom2019Robustness,ResNet,adversarial_training
-Wong2020Fast,WideResNet,fast_adversarial_training
-Rice2020Overfitting,WideResNet,adversarial_training
+model,architecture,training_type,enabled
+Standard,ResNet,standard,True
+Engstrom2019Robustness,ResNet,adversarial_training,True
+Wong2020Fast,WideResNet,fast_adversarial_training,True
+Rice2020Overfitting,WideResNet,adversarial_training_robust_overfitting,True
