@@ -1,4 +1,0 @@
-Run AutoAttack once.
-Save the generated adversarial images.
-Next time, load them from file.
-Do not run AutoAttack again unless you change the model, data batch, or epsilon.
