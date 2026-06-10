@@ -8,3 +8,9 @@ models/*.pt
 *.ckpt
 *.tar.gz
 *.pdf
+# Generated analysis/result folders
+analysis_ready_results_all4/
+github_report_outputs/figures/
+github_report_outputs/pairwise_sat/
+report_figures_all_benchmarks_with_pairwise_cka/
+report_figures_and_sat/
